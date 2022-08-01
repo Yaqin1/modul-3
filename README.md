@@ -1,5 +1,10 @@
 # modul 3
+#### Nama  : Ahmad Nur Yaqin
+#### Kelas : XII RPL 1
+#### absen : 10
+
 ### Routing
+
 Routing pada Laravel merupakan cara mengakses suatu halaman pada aplikasi melalui URL. 
 Misalnya untuk membuka halaman awal aplikasi dapat dilakukan dengan mengetik URL 
 localhost:8000. Berarti dalam menentukan route, kita menentukan bagaimana struktur URL untuk 
@@ -18,13 +23,21 @@ berikut:
 
 ![image](https://user-images.githubusercontent.com/109929695/182084380-0634b3eb-6892-4b66-99b7-57272fcb582c.png)
 
-lalu tambahkan isi seperti dibawah ini.
+lalu isikan seperti dibawah ini.
 
-![image](https://user-images.githubusercontent.com/109929695/182084448-1bccba87-fbef-4e6c-9b0d-c75d06c5f6e9.png)
+![image](https://user-images.githubusercontent.com/109929695/182106241-03e9184d-1684-4a41-9761-8de861959acd.png)
 
 
-Kemudian pada file web.php yang ada pada folder routes/web.php tambahkan kata 
-dengen bentuk seperti berikut.
+#### langkah kedua kita membuat barang controller.
 
-![image](https://user-images.githubusercontent.com/109929695/182084513-65679dc7-06a4-4cd1-b867-29d21bb95e4c.png)
+![image](https://user-images.githubusercontent.com/109929695/182106057-bff9f82a-1c85-41ed-b02e-5e7ac54f916f.png)
 
+lalu isikan seperti dibawah ini.
+
+![image](https://user-images.githubusercontent.com/109929695/182106331-8c0174db-0bd0-4ad5-aacd-b88c6203efd9.png)
+
+
+#### langkah ketiga 
+setelah langkah kedua selesai, selanjutnya kita membuka web.php dan isi seperti dibawah ini.
+
+![image](https://user-images.githubusercontent.com/109929695/182106746-3eb84b03-5f65-4d89-9112-15deb303bfd9.png)
